@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnirudhDimri
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning react.
-- 💞️ I’m looking to collaborate on web development projects
+- 👀 I’m interested in Deep Learning
+- 🌱 I’m currently learning Transformer Neural Networks.
+- 💞️ I’m looking to collaborate on ML projects
 - 📫reach me: andzzdimri@gmail.com
 
 <!---
